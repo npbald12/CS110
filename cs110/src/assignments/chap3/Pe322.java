@@ -6,9 +6,9 @@ public class Pe322 {
 
 	
 	public static void main(String[] args) {
-		double X_ONE = 0;
+		final double X_ONE = 0;
 		double xTwo;
-		double Y_ONE = 0;
+		final double Y_ONE = 0;
 		double yTwo;
 		double diffOfX;
 		double diffOfY;
