@@ -6,9 +6,9 @@ public class Pe322 {
 
 	
 	public static void main(String[] args) {
-		double xOne = 0;
+		double X_ONE = 0;
 		double xTwo;
-		double yOne = 0;
+		double Y_ONE = 0;
 		double yTwo;
 		double diffOfX;
 		double diffOfY;
@@ -27,8 +27,8 @@ public class Pe322 {
 		
 		yTwo = s.nextDouble();
 		
-		diffOfX = xTwo - xOne;
-		diffOfY = yTwo - yOne;
+		diffOfX = xTwo - X_ONE;
+		diffOfY = yTwo - Y_ONE;
 		
 		xSquared = diffOfX * diffOfX;
 		ySquared = diffOfY * diffOfY;

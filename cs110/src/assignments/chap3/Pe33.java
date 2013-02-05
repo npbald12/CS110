@@ -7,7 +7,6 @@ public class Pe33 {
 	
 	public static void main(String[] args) {
 		double a,b,c,d,e,f;
-		double zero;
 		double x;
 		double y;
 		
